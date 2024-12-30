@@ -5,8 +5,8 @@
 - 💻 Me encuentro aprendiendo y desarrolando proyectos en **WinForms y con el framework .NET en C#**, Fullstack Developer con **Node.js, HTML5, CSS3, Javascript**, Base de datos: **SQLServer, PostgreSQL, MySQL**
 - 🎮 Practicas de demos de videjuegos en **Unity, Construct, GDevelop** y en proceso de aprendizaje con Godot y Unreal Engine
 
-- 👨‍💻 Todos mis proyectos podes encontrarlos en [Repositorio en github](https://github.com/mathie-nav/)
-- 🎮 Portfolio de demos/proyectos de videojuegos [Portfolio en itch.io/](https://majomanav.itch.io/)
+- 👨‍💻 Todos mis proyectos podes encontrarlos en mi repositorio personal. [Repositorio en Github.com](https://github.com/mathie-nav/)
+- 🎮 Portfolio de mis prototipos/demos/proyectos de videojuegos. [Portfolio en Itch.io/](https://majomanav.itch.io)
 
 - 💬 Conozco sobre **C#, Java, Unity, Construct, GDevelop, Node.js, HTML5, CSS3, Javascript, SQLServer, PostgreSQL, MySQL**
 
