@@ -2,7 +2,7 @@
 <h3 align="center">Estudiante de Análisis de Sistemas enfocado en el Desarrollo .NET, Java & POO</h3>
 <h3 align="center">Técnico Superior en Desarrollo de Simulaciones Virtuales y Videojuegos en Proceso</h3>
 
-- 💻 Me encuentro aprendiendo y desarrolando proyectos en **WinForms y con el framework .NET en C#**, Fullstack Developer con **Node.js, HTML5, CSS3, Javascript**, Base de datos: **SQLServer, PostgreSQL, MySQL**
+- 💻 Me encuentro aprendiendo y desarrollando proyectos en **WinForms y con el framework .NET en C#**, Fullstack Developer con **Node.js, HTML5, CSS3, Javascript**, Base de datos: **SQLServer, PostgreSQL, MySQL**
 - 🎮 Practicas de demos de videjuegos en **Unity, Construct, GDevelop** y en proceso de aprendizaje con Godot y Unreal Engine
 
 - 👨‍💻 Todos mis proyectos podes encontrarlos en mi repositorio personal. [Repositorio en Github.com](https://github.com/mathie-nav)
