@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, Soy Mathias Navarro</h1>
 <h3 align="center">Estudiante de Análisis de Sistemas enfocado en el Desarrollo .NET, Java & POO</h3>
-<h3 align="center">Técnico Superior en Desarrollo de Simulaciones Virtuales y Videojuegos en Proceso</h3>
+<h3 align="center">Técnico Superior en Desarrollo de Simulaciones Virtuales y Videojuegos</h3>
 
-- 💻 Me encuentro aprendiendo y desarrollando proyectos en **WinForms y con el framework .NET en C#**, Fullstack Developer con **Node.js, HTML5, CSS3, Javascript**, Base de datos: **SQLServer, PostgreSQL, MySQL**
-- 🎮 Practicas de demos de videjuegos en **Unity, Construct, GDevelop** y en proceso de aprendizaje con Godot y Unreal Engine
+- 💻 Me encuentro aprendiendo y desarrollando proyectos como Fullstack Developer en Javascript con **Node.js, HTML5, CSS3, Javascript** y aprendiendo tambien PHP, poseo conocimientos en WinForms y con el framework .NET en C# y Swing en Java, como Base de datos conozco y he manipulado en los siguientes motores: **SQLServer, PostgreSQL, MySQL**
+- 🎮 Practicas de demos de videjuegos en **Unity, Construct, GDevelop, ThreeJS, PixiJS** y en proceso de aprendizaje con Godot y Unreal Engine
 
 - 👨‍💻 Todos mis proyectos podes encontrarlos en mi repositorio personal. [Repositorio en Github.com](https://github.com/mathie-nav)
 - 🎮 Portfolio de mis prototipos/demos/proyectos de videojuegos. [Portfolio en Itch.io](https://majomanav.itch.io)
